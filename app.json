@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "RickNMorty",
+    "slug": "RickNMorty",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/sinnombre.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/sinnombre.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/sinnombre.png"
+    }
+  }
+}
